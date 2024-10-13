@@ -1,0 +1,14 @@
+{
+    "name": "abhinavtech",
+    "version": "1.0.0",
+    "description": "CLI tool to display Abhinav Kale's portfolio",
+    "main": "index.js",
+    "bin": {
+        "abhinavtech": "./index.js"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Abhinav Kale",
+    "license": "MIT"
+}
