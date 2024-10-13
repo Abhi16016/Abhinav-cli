@@ -8,3 +8,8 @@ A command-line interface (CLI) tool to display Abhinav Kale's portfolio and tech
 - Provides information about programming languages, frameworks, technologies, and tools used.
 - Easy to run and modify for personal use.
 
+##Command
+
+```
+npx abhinavtech
+```
